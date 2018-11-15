@@ -15,7 +15,7 @@ Simple (~200 lines) distributed file system like HDFS (and of-course GFS). It co
 $ python client.py put sourcefile.txt sometxt
 $ python client.py get sometxt
 ```
-##### Stop it using Ctll + C so that it will dump the namespace.
+##### Stop it using Ctrl + C so that it will dump the namespace.
 
 ## TODO:
   1. Implement Delete
