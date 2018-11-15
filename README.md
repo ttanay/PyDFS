@@ -4,6 +4,7 @@ Simple (~200 lines) distributed file system like HDFS (and of-course GFS). It co
 #### [Blog: Simple Distributed File System in Python : PyDFS](https://superuser.blog/distributed-file-system-python/) 
 
 ### Requirements:
+  - Python 2
   - rpyc (Really! That's it.)
   
 ### How to run.
